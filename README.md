@@ -10,7 +10,7 @@
     |    ├── exploration.ipynb          # Rafael's EDA, data cleaning, exploration or models 
     |    ├── final.ipynb                # Final notebook of combined work  
     ├── Overview                        # Overview of the project
-    ├── SDSS_pre                        # Presentation
+    ├── SDSS_pres                        # Presentation
     └── README.md                       # Layout of repo
 
 ## Authors
