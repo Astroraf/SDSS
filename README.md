@@ -4,13 +4,14 @@
 
 ## Repository Structure
     .
-    ├── reference                       # reference material provided for the project
-    ├── data                            # modeling train and test data
-    ├── src                             # source code for custom functions
+    ├── images                          # all images used in readme
     ├── notebooks                       # jupyter notebooks
-    |    ├── default_payment_eda.ipynb  # EDA and data cleaning   
-    ├── model                           # model binary data stored here
-    └── README.md
+    |    ├── guy_exploration.ipynb      # Guuy's EDA, data cleaning, exploration or models
+    |    ├── exploration.ipynb          # Rafael's EDA, data cleaning, exploration or models 
+    |    ├── final.ipynb                # Final notebook of combined work  
+    ├── Overview                        # Overview of the project
+    └── README.md                       # Layout of repo
 
-## Author
-Yung Han Jeong 
+## Authors
+Rafael Ferreira
+Guy Monahan
