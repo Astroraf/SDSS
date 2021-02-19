@@ -4,7 +4,7 @@
 
 
 <p align="center">
- <img width="800" height="500" src=images/SDSS.jpg>
+ <img width="700" height="500" src=images/SDSS.jpg>
  </p>
 
 ## Outline:
