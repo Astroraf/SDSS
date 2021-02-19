@@ -4,13 +4,13 @@
 
 ## Repository Structure
     .
-    ├── images                          # all images used in readme
-    ├── notebooks                       # jupyter notebooks
+    ├── images                          # All images used in readme
+    ├── notebooks                       # Jupyter notebooks
     |    ├── guy_exploration.ipynb      # Guy's EDA, data cleaning, exploration or models
     |    ├── exploration.ipynb          # Rafael's EDA, data cleaning, exploration or models 
     |    ├── final.ipynb                # Final notebook of combined work  
     ├── Overview                        # Overview of the project
-    ├── SDSS_pres                        # Presentation
+    ├── SDSS_pres                       # Presentation
     └── README.md                       # Layout of repo
 
 ## Authors
