@@ -13,5 +13,6 @@
     └── README.md                       # Layout of repo
 
 ## Authors
-[Rafael Ferreira](https://github.com/Astroraf)
-[Guy Monahan](https://github.com/GuyMonahan)
+- [Rafael Ferreira](https://github.com/Astroraf)
+
+- [Guy Monahan](https://github.com/GuyMonahan)
